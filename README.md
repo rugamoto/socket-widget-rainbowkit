@@ -2,7 +2,7 @@ This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Ne
 
 # Socket V2 Widget with Rainbowkit
 
-This is a PoC to demonstrate using the (Socket Widget)[https://github.com/SocketDotTech/widget] with RainbowKit
+This is a PoC to demonstrate using the [Socket Widget](https://github.com/SocketDotTech/widget) with RainbowKit
 
 The main isses are that the module can only be loaded with SSR because the widget uses browser APIs in the module entry
 
